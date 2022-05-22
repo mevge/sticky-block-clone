@@ -1,0 +1,8 @@
+#git language csharp 
+*.cs linguist-detectable=true  
+*.asax linguist-detectable=false  
+*.ascx linguist-detectable=false  
+*.ashx linguist-detectable=false  
+*.asmx linguist-detectable=false 
+*.aspx linguist-detectable=false
+*.axd linguist-detectable=false  
